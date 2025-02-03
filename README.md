@@ -1,1 +1,5 @@
-## Predicting Solar Power Output Using linear regression
+## *Predicting Solar Power Output Using linear regression*
+
+# *Edunet Foundation*
+
+# 4 week internship presented by Edunet Foundation, in collaboration with AICTE & Shell, focusing on Green Skills using Ai technology
